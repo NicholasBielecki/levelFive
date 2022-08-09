@@ -3,7 +3,6 @@ const app = express()
 const bountyRouter = express.Router()
 const {v4: uuidv4} = require('uuid')
 
-// bountyRouter.request(express.json())
 app.use(express.json())
 
 
