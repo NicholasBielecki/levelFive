@@ -1,0 +1,19 @@
+.mainInput{
+
+        display: flex;  
+        justify-content: space-evenly;
+    border: 3px solid black;
+    background-color: lightblue;
+    color: green;
+}
+
+.bountyCard{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    border: 3px solid black;
+    margin: 5px;
+    padding: 3px;
+    background-color: lightsalmon;
+}
